@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Onix.React.Ovchar/static/css/main.5d31e04c.css",
+    "main.js": "/Onix.React.Ovchar/static/js/main.716674e9.js",
+    "index.html": "/Onix.React.Ovchar/index.html",
+    "main.5d31e04c.css.map": "/Onix.React.Ovchar/static/css/main.5d31e04c.css.map",
+    "main.716674e9.js.map": "/Onix.React.Ovchar/static/js/main.716674e9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5d31e04c.css",
+    "static/js/main.716674e9.js"
+  ]
+}
