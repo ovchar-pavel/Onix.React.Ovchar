@@ -33,11 +33,11 @@ const App = () => {
       </div>
 
       <div id="main">
-        <div class="intro">
+        <div className="intro">
           <h2>Наши ценности</h2>
           <span>Ответственность, Качество, Стабильность</span>
         </div>
-        <div class="text">
+        <div className="text">
           <span>
             Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos
             impedit, ut vero commodi voluptate? Ipsam reiciendis, necessitatibus
@@ -53,14 +53,14 @@ const App = () => {
         <h2>Наша продукция</h2>
         <h4>Железня руда и Магнетитовые кварциты</h4>
 
-        <div class="img">
+        <div className="img">
           <img
             src="https://www.mckinsey.com/~/media/mckinsey/industries/metals%20and%20mining/working%20with%20us/how%20we%20help%20clients/new%20images%2020%2008/1_ironore_thumbnail_1536x1536.jpg"
             alt=""
           />
           <span>Железая руда</span>
         </div>
-        <div class="img">
+        <div className="img">
           <img
             src="https://m.media-amazon.com/images/I/711GHXHV8FL._SL1500_.jpg"
             alt=""
@@ -101,7 +101,7 @@ const App = () => {
             id="message"
           ></textarea>
           <br />
-          <div id="mess_send" class="btn">
+          <div id="mess_send" className="btn">
             Отправить
           </div>
         </form>
@@ -109,23 +109,23 @@ const App = () => {
 
       <div id="faq">
         <div>
-          <span class="title">Оплата</span>
+          <span className="title">Оплата</span>
           <br />
-          <span class="heading">Как будет проходит оплата?</span>
+          <span className="heading">Как будет проходит оплата?</span>
           <p>
             Lorem ipsum dolor sit amet, consectetur adipisicing elit.
             Accusantium beatae asperiores debitis perspiciatis perferendis nemo
             tempore distinctio officia commodi et non tempora laudantium culpa
             nostrum, quidem, quasi ratione itaque nam.
           </p>
-          <span class="heading">Как будет проходит оплата?</span>
+          <span className="heading">Как будет проходит оплата?</span>
           <p>
             Lorem ipsum dolor sit amet, consectetur adipisicing elit.
             Accusantium beatae asperiores debitis perspiciatis perferendis nemo
             tempore distinctio officia commodi et non tempora laudantium culpa
             nostrum, quidem, quasi ratione itaque nam.
           </p>
-          <span class="heading">Как будет проходит оплата?</span>
+          <span className="heading">Как будет проходит оплата?</span>
           <p>
             Lorem ipsum dolor sit amet, consectetur adipisicing elit.
             Accusantium beatae asperiores debitis perspiciatis perferendis nemo
@@ -134,23 +134,23 @@ const App = () => {
           </p>
         </div>
         <div>
-          <span class="title">Информация</span>
+          <span className="title">Информация</span>
           <br />
-          <span class="heading">Что входит в услуги сервиса</span>
+          <span className="heading">Что входит в услуги сервиса</span>
           <p>
             Lorem ipsum dolor sit amet, consectetur adipisicing elit.
             Accusantium beatae asperiores debitis perspiciatis perferendis nemo
             tempore distinctio officia commodi et non tempora laudantium culpa
             nostrum, quidem, quasi ratione itaque nam.
           </p>
-          <span class="heading">Что входит в услуги сервиса</span>
+          <span className="heading">Что входит в услуги сервиса</span>
           <p>
             Lorem ipsum dolor sit amet, consectetur adipisicing elit.
             Accusantium beatae asperiores debitis perspiciatis perferendis nemo
             tempore distinctio officia commodi et non tempora laudantium culpa
             nostrum, quidem, quasi ratione itaque nam.
           </p>
-          <span class="heading">Что входит в услуги сервиса</span>
+          <span className="heading">Что входит в услуги сервиса</span>
           <p>
             Lorem ipsum dolor sit amet, consectetur adipisicing elit.
             Accusantium beatae asperiores debitis perspiciatis perferendis nemo
@@ -159,23 +159,23 @@ const App = () => {
           </p>
         </div>
         <div>
-          <span class="title">Гарантии</span>
+          <span className="title">Гарантии</span>
           <br />
-          <span class="heading">Какие гарантии есть</span>
+          <span className="heading">Какие гарантии есть</span>
           <p>
             Lorem ipsum dolor sit amet, consectetur adipisicing elit.
             Accusantium beatae asperiores debitis perspiciatis perferendis nemo
             tempore distinctio officia commodi et non tempora laudantium culpa
             nostrum, quidem, quasi ratione itaque nam.
           </p>
-          <span class="heading">Какие гарантии есть</span>
+          <span className="heading">Какие гарантии есть</span>
           <p>
             Lorem ipsum dolor sit amet, consectetur adipisicing elit.
             Accusantium beatae asperiores debitis perspiciatis perferendis nemo
             tempore distinctio officia commodi et non tempora laudantium culpa
             nostrum, quidem, quasi ratione itaque nam.
           </p>
-          <span class="heading">Какие гарантии есть</span>
+          <span className="heading">Какие гарантии есть</span>
           <p>
             Lorem ipsum dolor sit amet, consectetur adipisicing elit.
             Accusantium beatae asperiores debitis perspiciatis perferendis nemo
